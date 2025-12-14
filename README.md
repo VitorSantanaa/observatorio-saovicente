@@ -11,9 +11,11 @@ Este trabalho apresenta a proposta de criação de um Observatório de Vulnerabi
 * Fortalecer a gestão pública e promover políticas de mitigação de riscos.
 
 ## Estrutura dos Arquivos
-* **/final**: Contém o Relatório Final completo e a Apresentação (PPT).
-* **/dados**: Planilhas CSV com a sistematização dos observatórios analisados e indicadores de vulnerabilidade (IVUSA).
-* **/docs**: Registros de reuniões (Atas) e versões preliminares dos textos.
+* **final**: Contém o Relatório Final completo e a Apresentação (PPT).
+* **dados**: Planilha com a sistematização dos observatórios analisados e indicadores de vulnerabilidade (IVUSA).
+* **docs**: Registros de reuniões (Atas) e versões preliminares dos textos.
+* **referência**: Armazena materiais bibliográficos, artigos científicos que serviram de base teórica e metodológica para o projeto.
+
 
 ## Autores
 * Caio Cavalcante Vilela de Jesus
